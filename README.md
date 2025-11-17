@@ -127,9 +127,8 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
-## 📷 Screenshots (Optional)
+## 📷 Screenshots
 
 **Example:**
 
 ![Security System GUI](assets/screenshot1.png)
-![Security Log](assets/screenshot2.png)
